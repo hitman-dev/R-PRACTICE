@@ -1,0 +1,36 @@
+{
+  "user": {
+    "id": "JuWL4BQtVk2bACTdx0W89w2",
+    "fullName": "MR SANJAY S SANE",
+    "email": "sanjay@saneacademy.com",
+    "companyName": "Sane Academy of Statistics",
+    "businessTitle": "Sane Academy of Statistics",
+    "preferredLanguage": "en-US",
+    "country": "IND",
+    "preferredTimeZone": "Asia/Kolkata",
+    "roleId": null,
+    "audience": "Customers"
+  },
+  "transcripts": [],
+  "orders": [],
+  "subscriptions": [
+    {
+      "id": "Va7q8RLFOEylEkoPmIIBYA2",
+      "productId": 1,
+      "paymentType": "B2I",
+      "status": "Subscribed",
+      "creationDate": "Saturday, November 24, 2018",
+      "lastUpdatedDate": "Saturday, November 24, 2018",
+      "expirationDate": null,
+      "lpaAuthOrderReferenceId": null
+    }
+  ],
+  "externalIdentities": [
+    {
+      "system": "Amazon.com",
+      "externalId": "8268616205",
+      "email": "sanjay.sane75@gmail.com",
+      "lastUsedDate": "24 November, 2018 @ 06:33 PM"
+    }
+  ]
+}
